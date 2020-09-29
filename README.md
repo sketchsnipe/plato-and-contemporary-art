@@ -1,5 +1,3 @@
-# Plato and contemporary art
-
 ### Thesis: Under Platonic ethics Contemporary art is far more ethically sound than pre-modern art movements.
 
 In this paper I will first establish a summary of platonic morality, metaphisics and asthetics, and arts role within it, I will then strategically apply this framework too contemporary art and analize it's logical interactions, and finally I will draw toghether these interactions into a coherent assesment in the conclusion.
