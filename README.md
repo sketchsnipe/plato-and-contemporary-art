@@ -20,8 +20,8 @@ The metaphisics of Platonic Ethics can be encapsulated within two assertons.
 ### 2. The metaphisical asthethic implications of contemporary art when viewed through plato's framework.
 .
 #### The "New definition of art"
-#### Contemporary art and repersentation
-#### The every increasing abstraction away from the material
+#### Contemporary art and repersentation of the ideal.
+#### contemporary every increasing abstraction away from the material
 #### Reactionarisim and the dialects of art: individual, and cultural
 .
 ### 3. Conclusion
