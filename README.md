@@ -1,5 +1,5 @@
 # Ouline
-
+```
 I. Intro
     a. Thesis
         - In this paper I will argue that under Platonic morality, not only is the Concept Art movemnt is not immoral under platonic ehtics and astetics.
@@ -78,6 +78,4 @@ III. Conclusion
         - Scope
             * This has implications for modern platonist scolars, and neoplatonists
             
-<style type="text/css">
-    ol { list-style-type: upper-alpha; }
-</style>
+```
