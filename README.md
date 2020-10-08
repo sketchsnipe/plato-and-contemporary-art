@@ -77,3 +77,7 @@ III. Conclusion
     C. End
         - Scope
             * This has implications for modern platonist scolars, and neoplatonists
+            
+<style type="text/css">
+    ol { list-style-type: upper-alpha; }
+</style>
