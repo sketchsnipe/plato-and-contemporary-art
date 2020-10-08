@@ -1,7 +1,7 @@
 # Ouline
 
 I. Intro
-    A. Thesis
+    a. Thesis
         - In this paper I will argue that under Platonic morality, not only is the Concept Art movemnt is not immoral under platonic ehtics and astetics.
     B. Summary of paper/Arguments
         - However, before this you must first have a basic understanding of
